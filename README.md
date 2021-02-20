@@ -5,7 +5,7 @@
 - Telegram: [@localhoct](https://t.me/localhoct)
 - Twitter: [@YasinJavar](https://twitter.com/YasinJavar)
 
-[![Yasin's GitHub stats](https://github-readme-stats.vercel.app/api?username=localhoct&theme=radical)](https://yasinjavar.ir)
+[![Yasin's GitHub stats](https://github-readme-stats.vercel.app/api?username=localhoct&theme=slateorange)](https://yasinjavar.ir)
 
 <!--
 **localhoct/localhoct** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
